@@ -1,4 +1,4 @@
-# SQL-Project
+# BookLibrary
 
 C# Project with access to a database, resembling the user interface for a library.
 
